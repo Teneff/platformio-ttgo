@@ -1,0 +1,3 @@
+[submodule "TTGO-T-Display"]
+	path = TTGO-T-Display
+	url = https://github.com/Xinyuan-LilyGO/TTGO-T-Display.git
